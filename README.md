@@ -23,6 +23,7 @@
 - [07-整書架構](docs/07-整書架構/README.md)
   - [整本書設定與總綱（Season / Volume / Phase / Chapter）](docs/07-整書架構/整本書設定與總綱.md)
   - [ROADMAP 細部規劃（里程碑 / 交付物 / 完成條件）](docs/07-整書架構/ROADMAP-細部規劃.md)
+  - [ROADMAP 執行版（六卷排程 / V1V2章節池）](docs/07-整書架構/ROADMAP-執行版.md)
 
 ## 目標
 - 先建立可擴充的設定架構，避免靈感分散。
@@ -77,7 +78,8 @@
 │  └─ 07-整書架構/
 │     ├─ README.md
 │     ├─ 整本書設定與總綱.md
-│     └─ ROADMAP-細部規劃.md
+│     ├─ ROADMAP-細部規劃.md
+│     └─ ROADMAP-執行版.md
 └─ 深淵設定骨架.md（舊版整合稿，保留參考）
 ```
 
