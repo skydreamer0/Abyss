@@ -23,6 +23,7 @@
   - [深淵生態圈與微生物系統（初版）](docs/06-生態與生物/深淵生態圈與微生物系統.md)
   - [生物多樣性名錄 v1（棲位版）](docs/06-生態與生物/生物多樣性名錄-v1.md)
 - [07-整書架構](docs/07-整書架構/README.md)
+  - [小說創作 WORKFLOW（必用流程）](docs/07-整書架構/小說創作-WORKFLOW.md)
   - [整本書設定與總綱（Season / Volume / Phase / Chapter）](docs/07-整書架構/整本書設定與總綱.md)
   - [ROADMAP 細部規劃（里程碑 / 交付物 / 完成條件）](docs/07-整書架構/ROADMAP-細部規劃.md)
   - [ROADMAP 執行版（六卷排程 / V1V2章節池）](docs/07-整書架構/ROADMAP-執行版.md)
