@@ -3,66 +3,54 @@
 這是一個小說設定規劃資料夾，核心風格為：**西部拓荒 × 賽博朋克 × 深淵恐怖**。
 
 ## 快速導覽（可點擊跳轉）
-- [00-定位](docs/00-定位/README.md)
-  - [風格三支柱](docs/00-定位/風格三支柱.md)
-- [01-世界觀](docs/01-世界觀/README.md)
-  - [深淵世界觀骨架（快速版）](docs/01-世界觀/深淵世界觀骨架.md)
-  - [《深淵世界》邏輯設定架構 v1.0（主規格）](docs/01-世界觀/深淵世界邏輯架構-v1.0.md)
-- [02-勢力](docs/02-勢力/README.md)
-  - [勢力地圖初稿](docs/02-勢力/勢力地圖初稿.md)
-- [03-系統](docs/03-系統/README.md)
-  - [邊境工法與禁術系統（獨立版）](docs/03-系統/造物與禁術系統.md)
-  - [禁忌科技與污染分期（v1.0）](docs/03-系統/禁忌科技與污染分期.md)
-  - [人口製造與殖民系統](docs/03-系統/人口製造與殖民系統.md)
-- [04-物件圖鑑](docs/04-物件圖鑑/README.md)
-  - [深淵吐物圖鑑（初版）](docs/04-物件圖鑑/深淵吐物圖鑑.md)
-- [05-劇情場景](docs/05-劇情場景/README.md)
-  - [試金石事件：把手事件](docs/05-劇情場景/試金石事件-把手事件.md)
-  - [場景補充：異境地景](docs/05-劇情場景/場景補充-異境地景.md)
-- [06-生態與生物](docs/06-生態與生物/README.md)
-  - [深淵生態圈與微生物系統（初版）](docs/06-生態與生物/深淵生態圈與微生物系統.md)
-  - [生物多樣性名錄 v1（棲位版）](docs/06-生態與生物/生物多樣性名錄-v1.md)
-- [07-整書架構](docs/07-整書架構/README.md)
-  - [小說創作 WORKFLOW（必用流程）](docs/07-整書架構/小說創作-WORKFLOW.md)
-  - [整本書設定與總綱（Season / Volume / Phase / Chapter）](docs/07-整書架構/整本書設定與總綱.md)
-  - [ROADMAP 細部規劃（里程碑 / 交付物 / 完成條件）](docs/07-整書架構/ROADMAP-細部規劃.md)
-  - [ROADMAP 執行版（六卷排程 / V1V2章節池）](docs/07-整書架構/ROADMAP-執行版.md)
+
+- [00-核心設定 (Settings)](settings/README.md)
+  - [風格三支柱](settings/00-定位/風格三支柱.md)
+  - [世界觀架構](settings/01-世界觀/README.md)
+  - [勢力與地圖](settings/02-勢力/README.md)
+  - [造物與禁術系統](settings/03-系統/README.md)
+- [01-創作計畫 (Planning)](planning/README.md)
+  - [劇情場景與事件](planning/05-scenes/README.md)
+  - [創作流程 (Workflows)](planning/07-workflows/README.md)
+  - [執行路線圖 (Roadmaps)](planning/08-roadmaps/README.md)
+  - [敘事大綱 (Plans)](planning/10-plans/README.md)
+  - [操作程序 (SOPs)](planning/11-sops/README.md)
+  - [AI 共創指引 (Prompts)](planning/12-prompts/README.md)
+- [02-正文內容 (Manuscript)](manuscript/V1-裂谷啟封/)
+  - [V1-裂谷啟封（Ch1-Ch16）](manuscript/V1-裂谷啟封/)
 
 ## 目標
+
 - 先建立可擴充的設定架構，避免靈感分散。
 - 將世界觀、勢力、技術、事件拆分成可維護檔案。
 - 讓每一份設定都能直接支援角色、章節與衝突設計。
 
 ## 世界觀一句話總綱
+
 > 深淵是吞吐多宇宙殘骸與規則錯誤的活體邊境，人類以賽博禁術在拓荒前線求生，並在每次開採中逐步支付自身人性。
 
 ## 專案結構（現行）
+
 ```text
 .
 ├─ README.md
-├─ docs/
-│  ├─ 00-定位/
-│  ├─ 01-世界觀/
-│  ├─ 02-勢力/
-│  ├─ 03-系統/
-│  │  ├─ README.md
-│  │  ├─ 造物與禁術系統.md
-│  │  ├─ 禁忌科技與污染分期.md
-│  │  └─ 人口製造與殖民系統.md
-│  ├─ 04-物件圖鑑/
-│  ├─ 05-劇情場景/
-│  │  ├─ README.md
-│  │  ├─ 試金石事件-把手事件.md
-│  │  └─ 場景補充-異境地景.md
-│  ├─ 06-生態與生物/
-│  ├─ 07-整書架構/
-│  └─ 自我邏輯規則.md
-└─ 深淵設定骨架.md（舊版整合稿，保留參考）
+├─ settings/ (World-Building)
+│  ├─ 00-04, 06 Sub-folders
+│  └─ README.md
+├─ planning/ (Operational meta-docs)
+│  ├─ 05-scenes/
+│  ├─ 07-workflows/
+│  ├─ 08-roadmaps/
+│  ├─ 10-plans/
+│  ├─ 11-sops/
+│  └─ 12-prompts/
+└─ manuscript/ (The Novel Content)
+   ├─ V1-裂谷啟封/
+   └─ README.md
 ```
 
 ## 使用建議
-1. 先讀 [00-定位](docs/00-定位/README.md)，鎖定調性與禁區。
-2. 再讀 [01-世界觀](docs/01-世界觀/README.md) + [03-系統](docs/03-系統/README.md)，確認規則與代價。
-3. 寫章節前，先用 [05-劇情場景](docs/05-劇情場景/README.md) 做小事件壓力測試。
-4. 生物與感染相關內容集中在 [06-生態與生物](docs/06-生態與生物/README.md)，避免散落在事件檔。
-5. 新增設定時，優先放到對應子目錄，不再堆疊到單一大檔。
+
+1. 先讀 [核心設定](settings/README.md)，鎖定調性、世界觀與規則。
+2. 撰寫前參考 [創作計畫](planning/ROOT_README.md) 中的流程與大綱。
+3. 實際正文產出與版本存放在 [正文內容](manuscript/README.md) 中。
