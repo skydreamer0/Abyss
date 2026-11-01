@@ -48,3 +48,9 @@ description: 專門將中文小說（原稿或草稿）改寫為符合西方 Web
 ## 💡 使用指令示例
 - 「呼叫 Western Novel Adapter，幫我把 `01-初入深淵.md` 改寫成大約 2000 字、符合 Royal Road 口味的英文版本。」
 - 「使用西方套件，重新處理這段戰鬥場景，我需要主角的內心獨白更清晰，動作感更強。」
+
+## Work principle
+
+Less attention taken. More value delivered.
+
+Reduce unnecessary questions and narration; deliver useful, verified results. Preserve required approvals, risk disclosures, and blocker reports. This principle does not expand authorization or override safety and project rules.
