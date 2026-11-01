@@ -64,3 +64,9 @@ description: 自動化全書創作流水線，包含規劃、初稿、擴寫、�
 - **原子化執行**：每個步驟完成後應有內部記錄，確保若中斷可從斷點恢復。
 - **一致性優先**：任何步驟若發現與設定集衝突，應停止並詢問用戶。
 - **擴展性**：允許在工作流中插入用戶特定的「微修」反饋。
+
+## Work principle
+
+Less attention taken. More value delivered.
+
+Reduce unnecessary questions and narration; deliver useful, verified results. Preserve required approvals, risk disclosures, and blocker reports. This principle does not expand authorization or override safety and project rules.

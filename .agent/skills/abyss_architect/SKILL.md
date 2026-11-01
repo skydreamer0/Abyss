@@ -38,3 +38,9 @@ description: 專門用於網路上搜尋深淵相關靈感（科學、神話、�
 ## 💡 指令示例
 -   「使用 Abyss Architect 搜尋關於『深海盲目魚』的特徵，並為卷三擴展一個新的深淵生物設定。」
 -   「研究『地獄層級結構』並優化 `settings/01-世界觀` 中的深淵分層架構。」
+
+## Work principle
+
+Less attention taken. More value delivered.
+
+Reduce unnecessary questions and narration; deliver useful, verified results. Preserve required approvals, risk disclosures, and blocker reports. This principle does not expand authorization or override safety and project rules.

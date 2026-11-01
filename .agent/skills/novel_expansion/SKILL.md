@@ -35,3 +35,9 @@ description: 專門用於將小說章節擴展至 3000 字以上的高級編輯�
 
 ## 相關腳本與工具
 - `scripts/word_count.py`: 用於統計中文字數（不含空白與標點）。
+
+## Work principle
+
+Less attention taken. More value delivered.
+
+Reduce unnecessary questions and narration; deliver useful, verified results. Preserve required approvals, risk disclosures, and blocker reports. This principle does not expand authorization or override safety and project rules.
